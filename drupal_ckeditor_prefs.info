@@ -1,0 +1,3 @@
+name = CKEditor preferences
+description = This modules sets preferences for CKEditor with the WYSIWYG module. By <a href="http://amazingrando.com">Amazing Rando Design</a>
+core = 7.x
