@@ -1,3 +1,3 @@
 name = CKEditor preferences
-description = This modules sets preferences for CKEditor with the WYSIWYG module. By <a href="http://amazingrando.com">Amazing Rando Design</a>
+description = This modules sets preferences for CKEditor to set the Allow Content Editor to true so that it doesn't strip out HTML that we want in the editor. See https://www.drupal.org/node/2023691. By <a href="http://amazingrando.com">Amazing Rando Design</a>
 core = 7.x
